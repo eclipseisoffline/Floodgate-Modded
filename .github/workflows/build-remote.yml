@@ -12,9 +12,9 @@ on:
         description: 'The ref of the remote'
         type: string
       java_version:
-          required: true
-          description: 'The Java version used to build'
-          type: number
+        required: true
+        description: 'The Java version used to build'
+        type: number
 
 permissions: {}
 
